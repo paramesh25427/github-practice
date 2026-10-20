@@ -1,1 +1,2 @@
 second file in learning github
+changing in development branch for learn merge conflict
