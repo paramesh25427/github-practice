@@ -1,1 +1,1 @@
-this is my first practice in github
+This is my first text file for learning git and github
