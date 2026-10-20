@@ -1,2 +1,6 @@
 second file in learning github
+<<<<<<< HEAD
 changing in development branch for learn merge conflict
+=======
+edited in staging for merge conflict learning
+>>>>>>> staging
