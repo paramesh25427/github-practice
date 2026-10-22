@@ -1,3 +1,4 @@
 This is my first text file for learning git and github
 hello world
 updating first.txt in github for pull and fetch
+updating now for pull
